@@ -32,7 +32,7 @@ assembly implementation for amd64.
 
 This package is in a module and the latest code is in version 2 of the module.
 You need a version of Go with at least "minimal module compatibility" to use
-github.com/cespare/xxhash/v2:
+github.com/webpkg/xxhash:
 
 * 1.9.7+ for Go 1.9
 * 1.10.3+ for Go 1.10
